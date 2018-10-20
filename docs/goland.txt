@@ -1,0 +1,61 @@
+快捷键：
+
+移动当前代码行  Ctrl+Shift+Up Ctrl+Shift+Down
+
+复制一行代码 Ctrl+D
+
+删除一行代码 Ctrl+Y
+
+评论或取消注释一行代码 Ctrl+/
+
+评论一段代码 Ctrl+Shift+/
+
+在当前打开的文件中查找 Ctrl+F
+
+在当前文件中查找并替换 Ctrl+R
+
+查找下一个 F3
+
+查找上一个 Shift+F3
+
+在打开的标签之间切换 Alt+Right Alt+Left
+
+向后/向前导航 Ctrl+Alt+Left Ctrl+Alt+Right
+
+在编辑器中展开或折叠代码块 Ctrl+NumPad Plus Ctrl+NumPad -
+
+创建新的... Alt+Insert
+
+打开命令行 Ctrl+Alt+T
+
+突出显示选中元素的用法 Ctrl+F7
+
+要扩展语法选择，请按Ctrl+W。要缩小它，请按 Ctrl+Shift+W。
+
+选择多个选中元素 Alt+J 取消 Shift+Alt+J。
+
+快速修复错误 Alt + Enter。
+
+新格式化代码 Ctrl+Alt+L
+
+自动缩进行 Ctrl+Alt+I
+
+优化进口 Ctrl+Alt+O
+
+使用fmt让文件格式化 Ctrl+Shift+Alt+F
+
+使用fmt让项目格式化 Ctrl+Shift+Alt+P
+
+
+版本控制工具窗口 Alt+9
+
+弹出VCS操作 Alt+Back '
+
+提交更改 Ctrl+K
+
+更新项目 Ctrl+T
+
+推送提交 Ctrl+Shift+K
+
+
+

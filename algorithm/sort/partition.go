@@ -28,7 +28,7 @@ func partition(arr []int, L, R, num int) (el, er int) {
 			arr[less+1], arr[p] = arr[p], arr[less+1]
 			// fmt.Printf("arr[p] < num less:%d more:%d p:%d arr:%d \n ", less, more, p, arr)
 			less++
-			p++
+			p++ //不执行p++的话less可能会超过p
 		} else {
 			arr[more-1], arr[p] = arr[p], arr[more-1]
 			// fmt.Printf("arr[p] > num less:%d more:%d p:%d arr:%d \n ", less, more, p, arr)

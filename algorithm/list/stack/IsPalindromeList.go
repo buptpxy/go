@@ -15,7 +15,7 @@
 			3. 两个指针同时从头和尾开始遍历，并比较元素是否相同
 			4. 把后半段链表反转回来
 */
-package main
+package stack
 
 import (
 	"fmt"

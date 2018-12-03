@@ -10,8 +10,8 @@ Q16. 创建逆波兰（后缀）计算器计算给定的后缀表达式。
 import (
 	"bufio"
 	"fmt"
+	stack "github.com/pengpeng1314/go/stack"
 	"os"
-	"stack"
 	"strconv"
 	"strings"
 )
